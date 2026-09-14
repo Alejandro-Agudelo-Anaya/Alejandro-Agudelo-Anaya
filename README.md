@@ -2,109 +2,132 @@
 
 # 👨‍💻 Alejandro Agudelo Anaya
 
-### Estudiante de Ingeniería de Sistemas e Informática
-**Universidad Nacional de Colombia — Medellín**
+### Ingeniería de Sistemas e Informática
+**Universidad Nacional de Colombia · Medellín 🇨🇴**
 
 <br>
 
-[![Backend](https://img.shields.io/badge/Backend-Developer-2ea44f?style=for-the-badge&logo=serverless&logoColor=white)](#)
-[![AI](https://img.shields.io/badge/AI-RAG%20%26%20Agents-7c3aed?style=for-the-badge&logo=openai&logoColor=white)](#)
-[![Cloud](https://img.shields.io/badge/Cloud-AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-Developer-fcc624?style=for-the-badge&logo=linux&logoColor=black)](#)
-
-📍 Medellín, Colombia
+<a href="https://linkedin.com/in/alejandro-agudelo-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Alejandro-Agudelo-Anaya">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:alagudeloa@unal.edu.co">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 🧑‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad Nacional de Colombia, con interés en el desarrollo de software, arquitecturas backend, inteligencia artificial y tecnologías cloud.
+Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad Nacional de Colombia, interesado en el desarrollo de software y la construcción de soluciones tecnológicas.
 
-Me interesa especialmente construir aplicaciones que combinen **desarrollo backend, inteligencia artificial y servicios en la nube**, buscando soluciones modulares, escalables y mantenibles.
+Mi perfil está orientado principalmente hacia:
 
-Actualmente estoy fortaleciendo mis conocimientos en:
+- 🔹 **Backend Development**
+- 🤖 **Inteligencia Artificial Generativa**
+- 🔎 **RAG & AI Agents**
+- ☁️ **Cloud Computing**
+- ⚙️ **DevOps**
+- 🏗️ **Arquitectura de Software**
+- 🐧 **Linux & Networking**
 
-- 🧩 Desarrollo Backend
-- 🤖 Inteligencia Artificial Generativa
-- 🔎 Sistemas RAG
-- 🧠 Agentes de IA
-- ☁️ Cloud Computing
-- ⚙️ DevOps
-- 🐧 Linux
-- 🌐 Redes
-- 🗄️ Bases de datos
-- 🏗️ Arquitectura de software
-
----
-
-# 🧠 Stack tecnológico
-
-## 🐍 Backend & Programming
-
-![Python](https://img.shields.io/badge/Python-85%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-85%25-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-70%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-70%25-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
----
-
-## 🗄️ Databases
-
-![SQL](https://img.shields.io/badge/SQL-65%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Databases](https://img.shields.io/badge/Databases-65%25-003B57?style=for-the-badge&logo=databricks&logoColor=white)
-
----
-
-## 🤖 Artificial Intelligence
-
-![Generative AI](https://img.shields.io/badge/Generative%20AI-65%25-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-![RAG](https://img.shields.io/badge/RAG-65%25-7c3aed?style=for-the-badge)
-
-![AI Agents](https://img.shields.io/badge/AI%20Agents-65%25-9333ea?style=for-the-badge)
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-65%25-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
----
-
-## ☁️ Cloud, DevOps & Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-60%25-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-60%25-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Git](https://img.shields.io/badge/Git-60%25-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![Networking](https://img.shields.io/badge/Networking-60%25-0078D4?style=for-the-badge)
-
----
-
-# 📊 Nivel de habilidades
-
-| Tecnología / Área | Nivel |
-|---|---:|
-| 🐍 Python / FastAPI | █████████████████░░░ **85%** |
-| ☕ Java / Spring Boot | ██████████████░░░░░░ **70%** |
-| 🗄️ SQL / Bases de Datos | █████████████░░░░░░░ **65%** |
-| 🤖 Generative AI / RAG / Agents | █████████████░░░░░░░ **65%** |
-| 🧠 Machine Learning / Data | █████████████░░░░░░░ **65%** |
-| 🐧 Git / Linux / AWS / Networking | ████████████░░░░░░░░ **60%** |
-
-> Los porcentajes representan una estimación orientativa de mi nivel actual y pueden evolucionar a medida que continúo desarrollando proyectos.
+Me gusta aprender mediante proyectos y explorar cómo combinar **Backend + IA + Cloud** para desarrollar soluciones reales.
 
 ---
 
 # 🛠️ Tecnologías
 
-### Languages
+<div align="center">
+
+### 💻 Lenguajes
+
+<img src="https://skillicons.dev/icons?i=python,java,js,sql" />
+
+<br><br>
+
+### ⚡ Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,spring" />
+
+<br><br>
+
+### 🤖 Inteligencia Artificial
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+<br><br>
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+
+<br><br>
+
+### 🗄️ Bases de datos
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+</div>
+
+---
+
+# 🧠 AI & Data
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</div>
+
+---
+
+# 🚀 Proyectos
+
+<div align="center">
+
+## 🤖 Asistente IA — Legislación Laboral
+
+</div>
+
+Proyecto de **Inteligencia Artificial Generativa** orientado a la consulta de legislación laboral colombiana.
+
+La aplicación utiliza una arquitectura **RAG (Retrieval-Augmented Generation)** para recuperar información relevante de documentos jurídicos y generar respuestas fundamentadas.
+
+### 🔧 Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+
+</div>
+
+### 🧩 Características
 
 ```text
-Python
-Java
-SQL
+🔎 Búsqueda semántica
+📚 RAG sobre documentos jurídicos
+🤖 LLMs para generación de respuestas
+🧠 Transformación de consultas
+🔄 Arquitectura basada en LangGraph
+✅ Validación de respuestas
+🗂️ Base de datos vectorial
+⚡ API Backend con FastAPI
